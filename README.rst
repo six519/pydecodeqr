@@ -1,7 +1,7 @@
 pydecodeqr
 ==========
 
-Decode QR code in image file using libdecodeqr (Python Extension in C++ Sample Code). Code tested in Ubuntu 12.04
+Decode QR code image file using libdecodeqr (Python Extension in C++ Sample Code). Code tested in Ubuntu 12.04
 
 Install Requirements
 ====================
