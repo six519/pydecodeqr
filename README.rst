@@ -9,11 +9,17 @@ Install Requirements
 
 	sudo apt-get install libdecodeqr-dev
 
-Building
-========
+Building and Installing
+=======================
 ::
 
 	./setup.py build install
+
+Installing Through PyPi
+=======================
+::
+
+	pip install pydecodeqr
 
 Python Sample Usage
 ===================
