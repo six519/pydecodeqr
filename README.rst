@@ -1,3 +1,8 @@
+PyPi Link
+=========
+
+https://pypi.python.org/pypi/pydecodeqr/1.0
+
 pydecodeqr
 ==========
 
