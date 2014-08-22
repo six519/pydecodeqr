@@ -12,7 +12,7 @@ Install Requirements
 ====================
 ::
 
-	sudo apt-get install libdecodeqr-dev
+	sudo apt-get install libdecodeqr-dev libopencv-dev
 
 Building and Installing
 =======================
